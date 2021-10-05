@@ -1,4 +1,4 @@
-package 1;
+package mx.uv;
 
 /**
  * Hello world!
