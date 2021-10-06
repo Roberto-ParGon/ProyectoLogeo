@@ -1,0 +1,35 @@
+
+
+#header{
+
+    color:purple;
+    text-align:center;
+
+}
+
+#row{
+    align-tracks: center;
+}
+
+#name{
+
+    color: purple;
+    text-align:center;
+
+}
+
+#email{
+
+    color: purple;
+    text-align:center;
+}
+
+#password{
+
+    color:purple;
+    text-align:center;
+}
+
+#btn-sub{
+    align-items: center;
+}
